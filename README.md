@@ -48,15 +48,3 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=surajkaran&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajkaran&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=surajkaran&theme=tokyo-night" />
-</p>
